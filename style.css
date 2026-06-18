@@ -1,3 +1,4 @@
 p{
     color: brown;
+    background-color: color-mix(in hsl shorter hue, color percentage, color percentage);
 }
